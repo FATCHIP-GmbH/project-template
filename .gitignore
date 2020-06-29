@@ -1,0 +1,4 @@
+.idea
+/htdocs/cache/*
+!/htdocs/cache/.gitkeep
+/htdocs/.htaccess

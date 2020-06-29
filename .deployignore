@@ -1,0 +1,9 @@
+.deployignore
+.env
+.gitattributes
+.gitignore
+.github
+.github/**
+container
+container/**
+docker-compose.yml
