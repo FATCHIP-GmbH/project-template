@@ -7,3 +7,5 @@
 container
 container/**
 docker-compose.yml
+htdocs/build/**
+htdocs/source/build/**
