@@ -2,7 +2,19 @@
 # FATCHIP project-template
 Template for creating a new Github project repository in FATCHIP style
 
+## Stack
+Describe which Frameworks are used in which version.
 
+## Environments
+List links to all environments (live/stage...).
+
+## Hosting
+Describe where the project is hosted.
+
+## Deployment
+Describe how Deployments work.
+
+## Repository-Structure
 ### _FCCONFIG
 Here we store all files that differ for each environment in a subfolder like `live` or `stage`.\
 DeployHQ will automatically deploy the right folderes to the right environment if configured properly.
